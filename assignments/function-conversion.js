@@ -7,7 +7,7 @@
 
 const myFunction = () =>
 {console.log("Function was invoked!")};
-myFunction();
+myFunction;
 
 
 // let anotherFunction = function (param) {
